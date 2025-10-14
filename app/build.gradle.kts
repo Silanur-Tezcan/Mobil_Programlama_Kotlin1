@@ -4,11 +4,19 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.hafta3"
     compileSdk = 36
 
     defaultConfig {
         applicationId = "com.example.hafta3"
+=======
+    namespace = "com.example.hafta_5"
+    compileSdk = 36
+
+    defaultConfig {
+        applicationId = "com.example.hafta_5"
+>>>>>>> f6a6686d16651570d2d89c66365d708f97277213
         minSdk = 24
         targetSdk = 36
         versionCode = 1

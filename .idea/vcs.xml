@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+<<<<<<< HEAD
+=======
+    <mapping directory="$PROJECT_DIR$/mobil_programlama_kotlin" vcs="Git" />
+>>>>>>> f6a6686d16651570d2d89c66365d708f97277213
   </component>
 </project>
